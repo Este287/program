@@ -1,0 +1,16 @@
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.exe
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.deps.json
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.runtimeconfig.json
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.runtimeconfig.dev.json
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.dll
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\ref\progra.dll
+C:\Users\TEFYTA\Desktop\progra\bin\Debug\net5.0\progra.pdb
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.csprojAssemblyReference.cache
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.AssemblyInfoInputs.cache
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.AssemblyInfo.cs
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.csproj.CoreCompileInputs.cache
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.dll
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\ref\progra.dll
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.pdb
+C:\Users\TEFYTA\Desktop\progra\obj\Debug\net5.0\progra.genruntimeconfig.cache
